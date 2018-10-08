@@ -1,0 +1,30 @@
+{
+    "run": {
+        "default": "",
+        "items": [
+            {
+                "name": "com.tyro",
+                "projectName": "com.tyro",
+                "workingDirectory": "/Users/nkumar/Desktop/Dev-drive/career/java-samples/java-tdd-sample/com.tyro",
+                "args": [],
+                "vmargs": [],
+                "env": {},
+                "preLaunchTask": ""
+            }
+        ]
+    },
+    "debug": {
+        "default": "",
+        "items": [
+            {
+                "name": "com.tyro",
+                "projectName": "com.tyro",
+                "workingDirectory": "/Users/nkumar/Desktop/Dev-drive/career/java-samples/java-tdd-sample/com.tyro",
+                "args": [],
+                "vmargs": [],
+                "env": {},
+                "preLaunchTask": ""
+            }
+        ]
+    }
+}

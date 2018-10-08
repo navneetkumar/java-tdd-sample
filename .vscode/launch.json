@@ -1,0 +1,13 @@
+{
+    "configurations": [{
+        "type": "java",
+        "name": "CodeLens (Launch) - App",
+        "request": "launch",
+        "cwd": "${workspaceFolder}",
+        "console": "internalConsole",
+        "stopOnEntry": false,
+        "mainClass": "example.App",
+        "args": "",
+        "projectName": "com.tyro"
+    }]
+}
